@@ -9,4 +9,4 @@ pageextension 50149 CustomerListExt extends "Customer List"
     begin
         Message('App published: Hello world AP auto TEST');
     end;
-}
+}//BBtest    
